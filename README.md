@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chamanbravo
 - 👀 I’m interested in FrontEnd Web Development.
-- 🌱 I’m currently learning Responsive Web Devlopment.
+- 🌱 I’m currently learning React.
 
 <!---
 chamanbravo/chamanbravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
